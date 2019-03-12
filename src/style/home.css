@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    display: block;
+    border: none;
+}
+.home header{
+    height:40px;
+    width: 100%;
+    text-align:center;
+    line-height: 40px;
+    background: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    background: #f5f4f4;
+}
+.home section{
+    margin-top: 40px;
+}
+img{
+    display: block;
+}
+.icon-41{
+    font-size: 50px;
+    color:#000;
+}
+.home header span{
+    display: block;
+    float: left;
+}
+.home header span:nth-child(1){
+    margin-left:10px;
+}
+.home header span:nth-child(2){
+    margin-left:100px;
+}
+.home header span:nth-child(3){
+    margin-left:110px;
+}
+.ant-carousel .slick-slide {
+    text-align: center;
+    overflow: hidden;
+  }
+.ant-carousel .slick-slide img {
+    /* color: #fff; */
+    width:100%;
+    height:160px;
+} 
+.home  .list1{
+    height: 160px;
+    
+} 
+.home .list1 dl{
+    width: 20%;
+    height: 50px;
+    float:left;
+    margin-top: 10px;
+} 
+.home .list1 dl img{
+    width: 50px;
+    height:50px;
+    text-align: center;
+}
+.home .kefu{
+    height: 60px;
+    margin-top:8px;
+}
+.home .kefu>p{
+    width: 60%;
+    height: 50px;
+    float: left;
+    margin-left: 30px;
+}
+.home .kefu>p>em{
+    font-style: normal;
+    display: block;
+    float: left;
+}
+.home .kefu p em:nth-child(1){
+    font-size:16px;
+    width: 100%;
+}
+.home .kefu>p>em:nth-child(3){
+    margin-left: 20px;
+}
+.home .kefu span:nth-of-type(1){
+    display: block;
+    float: left;
+    font-size: 30px;
+    margin-left: 10px;
+    color: orange;
+}
+.home .kefu span:nth-of-type(2){
+    display: block;
+    float: right;
+    font-size: 25px;
+    margin-right: 10px;
+    line-height:50px;
+    text-align: center;
+    color: red;
+}
+.home .tejia{
+    height: 35px;
+    line-height:35px;
+    font-size:18px;
+}
+.home .tejia span{
+    display: block;
+    width: 30%;
+    font-weight: bolder;
+}
+.home .lunbo{
+    overflow: auto;
+    height: 80px;
+}
+.home .lunbo>div{
+    overflow: hidden;
+    display: flex;
+    width: 300%;
+    height: 80px;
+}
+.home .lunbo dl{
+    display: flex;
+    justify-content: space-around;
+    width:180px;
+    height:80px;
+    background: rgb(248, 245, 245);
+    margin-left: 10px;
+}
+.home .lunbo dl img{
+    width: 80px;
+    height: 80px;
+}
+.home .lunbo dl dt{
+    height:80px;
+}
+.home .lunbo dl dd{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height:80px;
+}
+.home .pic img{
+   width: 100%;
+    height: 100px;
+    margin-top: 10px;
+}
+.home .pic2{
+    height: 90px;
+}
+.home .pic2 img{
+    width: 45%;
+    height: 80px;
+    margin-left: 10px;
+    float: left;
+}
+.home .pic3{
+    height: 130px;
+    
+}
+.home .pic3 img{
+    width: 30%;
+    height: 110px;
+    float: left;
+    margin-left: 5px;
+}
+.home .guojia{
+    height: 35px;
+    line-height:35px;
+    font-size:18px;
+}
+.home .guojia span{
+    display: block;
+    width: 30%;
+    font-weight: bolder;
+}
+.home .lunbo1{
+    overflow: auto;
+    height: 80px;
+}
+.home .lunbo1>div{
+    overflow: hidden;
+    display: flex;
+    width: 300%;
+    height: 80px;
+}
+.home .lunbo1 dl{
+    display: flex;
+    justify-content: space-around;
+    width:130px;
+    height:80px;
+    margin-left: 10px;
+}
+.home .lunbo1 dl img{
+    width: 130px;
+    height: 100px;
+}
+.home .meizhou{
+    height: 35px;
+    line-height:35px;
+    font-size:18px;
+}
+.home .meizhou span{
+    display: block;
+    width: 30%;
+    font-weight: bolder;
+}
+.home .pic4 dl img{
+    width: 100%;
+    height: 150px;
+}

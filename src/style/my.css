@@ -1,0 +1,124 @@
+.my-2{
+    background: #aa5f59;
+    overflow: hidden;    
+    height: 180px;
+}
+html,body{
+   background: #f3f3f3;
+}
+.my-3{
+    display: flex;
+    margin-top: 10px;
+}
+.my-3 img{
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin: 0 15px 0 20px;
+}
+.my-3 span{
+    text-align: center;
+    display: block;
+    width: 80px;
+    height: 20px;
+    border-radius: 10px;
+    color: #fff;
+    background: #de7200;
+    font-size: 13px;
+}
+.my-5{
+    margin-top: 20px;
+    display: flex;
+
+}
+.my-5 .iconfont{
+    color:#fff;
+}
+.my-5 span:first-child{
+    margin: 6px 30px 0 65%;
+}
+.my-5 span:nth-child(2){
+    margin: 9px 25px 0 0;
+}
+.my-5 span:last-child{
+    margin: 2px 0 0 0 ;
+}
+.my-6{
+    background: #fff;
+    height: 70px;
+    color: black;
+   
+}
+.my-6 div{
+    height: 100%;
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.my-6 div span{
+    margin-top: 20px;
+}
+.iconfont{
+    font-size: 20px;
+}
+.icon-xinxi{
+    font-size: 23px;
+}
+.icon-shezhi{
+    font-size: 30px;
+}
+.icon-richscan_icon{
+    font-size: 18px;
+}
+.my-7{
+    background: #fff;
+    margin-top: 10px;
+}
+.my-8{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 93%;
+    margin-left: 3.5%;
+    line-height: 50px;
+    border-bottom: 1px solid #f5f3f3;
+}
+.my-9{
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.my-9 div span{
+    display: block;
+    margin: 20px 0 10px 0;
+
+}
+.my-10{
+    background: #fff;
+    height: 185px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 10px;
+}
+.my-11{
+    width: 25%;
+    float: left;
+}
+.my-12{
+    display: flex;
+    height: 60px;
+    background: #fff;
+    margin-top: 10px;
+    line-height: 60px;
+    font-size: 16px;
+}
+.icon-fenxiang{
+    font-size: 25px;
+    margin:0 20px 0;
+}
+.my-12 p{
+    margin-left: 35px;
+}

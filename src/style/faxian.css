@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    display: block;
+    border: none;
+}
+.faxian{
+    background: #f5f4f4;
+}
+.faxian header{
+    height:40px;
+    width: 100%;
+    text-align:center;
+    line-height: 40px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-size: 20px;
+    z-index: 10;
+    background: #f5f4f4;
+}
+.faxian .find1{
+    height: 40px;
+    margin-top: 40px;
+    font-size:20px;
+    line-height:40px;
+}
+.faxian .fpic1 img{
+    width: 100%;
+    height: 150px;
+    
+}
+.faxian .content dl{
+    width: 100%;
+    height: 140px;
+    margin-top: 10px;
+    background: #fff;
+}
+.faxian .content p:nth-of-type(1){
+    width:100%;
+    height: 30px;
+}
+.faxian .content p:nth-of-type(1) img{
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+.faxian .content p:nth-of-type(1) span{
+    display: block;
+    float: left;
+    width:50px;
+    height: 30px;
+    line-height: 30px;
+}
+.faxian .content p:nth-of-type(2){
+    width: 90%;
+    height:40px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.faxian .content p:nth-of-type(3){
+    width: 100%;
+    height:40px;
+    font-size: 13px;
+    margin-left: 10px;
+    color: #cecece;
+}
+.faxian .content dt{
+    width: 60%;
+    height: 110px;
+    float: left;
+}
+
+.faxian .content dd{
+    width:40%;
+    height: 140px;
+    float: right;
+}
+.faxian .content dd img{
+    width: 120px;
+    height: 120px;
+    margin-top: 10px;
+    float: right;
+    margin-right: 10px;
+}

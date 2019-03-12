@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.active{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.index{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.index>div{
+    flex: 1;
+    overflow: auto;
+}
+.index>footer{
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
